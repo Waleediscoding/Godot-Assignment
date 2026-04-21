@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://hfogoqfd06tb"]
+
+[ext_resource type="Script" uid="uid://bxermq31kbqhn" path="res://game.gd" id="1_e2o6t"]
+[ext_resource type="PackedScene" uid="uid://qetf1c5yu32y" path="res://wall.tscn" id="2_feb5d"]
+[ext_resource type="PackedScene" uid="uid://cbkcgx72yck4o" path="res://ball.tscn" id="3_feb5d"]
+[ext_resource type="PackedScene" uid="uid://b7i7f3o5w3ew" path="res://boundary.tscn" id="4_fc0e3"]
+
+[node name="Main" type="Node2D" unique_id=1692278691]
+script = ExtResource("1_e2o6t")
+
+[node name="PreviewLine" type="Line2D" parent="." unique_id=1402786141]
+
+[node name="Wall" parent="." unique_id=214281049 instance=ExtResource("2_feb5d")]
+
+[node name="Ball" parent="." unique_id=949190285 instance=ExtResource("3_feb5d")]
+safe_margin = 0.001
+
+[node name="Boundary" parent="." unique_id=895659661 instance=ExtResource("4_fc0e3")]
