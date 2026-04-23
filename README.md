@@ -4,9 +4,15 @@
 - Class Group: A
 
 # Video 
-*Under construction*
+<video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+</video>
 
 # Screenshots
+Image 1
+![](XyloBox (SS1).png)
+Image 2
+![](XyloBox (SS2).png)
 
 # Description & Instructions
 ## Core Gameplay
