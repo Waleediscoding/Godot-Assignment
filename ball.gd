@@ -1,12 +1,11 @@
 extends CharacterBody2D
 
-var scaling = 0.1
-
 func set_size(r):
 	$CollisionShape2D.shape.radius = r * 4
 	$Sprite2D.scale = Vector2(r/16.0, r/16.0)
 	
 func _ready() -> void:
+	input_pickable = true
 	var center = get_viewport_rect().size / 2
 	set_size(5)
 	position = center

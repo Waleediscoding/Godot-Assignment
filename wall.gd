@@ -47,7 +47,7 @@ func wall_flash(global_pos):
 	$Line2D.default_color = original_colour
 
 func play_note(colour):
-	if colour == Color.CYAN:
+	if colour == Color.YELLOW:
 		$AudioStreamPlayer2D.pitch_scale = 1.2
 	elif colour == Color.GREEN:
 		$AudioStreamPlayer2D.pitch_scale = 1.0

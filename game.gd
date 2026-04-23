@@ -32,7 +32,7 @@ func create_wall(a, b, w, c):
 func pick_colour(length, alpha) -> Color:
 	var colour = Color.WHITE
 	if length < 150:
-		colour = Color(0, 1, 1, alpha)
+		colour = Color(1, 1, 0, alpha)
 	elif length < 250:
 		colour = Color(0, 1, 0, alpha)
 	elif length < 450:
@@ -54,7 +54,6 @@ func _input(event: InputEvent) -> void:
 				preview.clear_points()
 	if event is InputEventMouseMotion and drawing:
 		var length = start_pos.distance_to(get_global_mouse_position())
-		
 		preview.width = line_width
 		preview.default_color = pick_colour(length, 0.25)
 		preview.clear_points()
