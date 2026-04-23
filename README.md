@@ -4,7 +4,7 @@
 - Class Group: A
 
 # Video
-![Video Demo of XyloBox](Video/XyloBox%20(Video).mp4)
+![Video](Video/XyloBox%20(Video).mp4)
 
 # Screenshots
 ### Image 1
