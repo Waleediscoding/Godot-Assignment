@@ -10,9 +10,9 @@
 
 # Screenshots
 Image 1
-![](XyloBox (SS1).png)
+![An image of XyloBox](Images/XyloBox%20(SS1).png)
 Image 2
-![](XyloBox (SS2).png)
+![Another image of XyloBox](Images/XyloBox%20(SS2).png)
 
 # Description & Instructions
 ## Core Gameplay
