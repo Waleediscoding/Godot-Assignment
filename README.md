@@ -3,15 +3,13 @@
 - Student Number: A00020389
 - Class Group: A
 
-# Video 
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-</video>
+# Video
+![Video Demo of XyloBox](Video/XyloBox%20(Video).mp4)
 
 # Screenshots
-Image 1
+### Image 1
 ![An image of XyloBox](Images/XyloBox%20(SS1).png)
-Image 2
+### Image 2
 ![Another image of XyloBox](Images/XyloBox%20(SS2).png)
 
 # Description & Instructions
