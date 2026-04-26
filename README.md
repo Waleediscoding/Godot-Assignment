@@ -4,7 +4,7 @@
 - Class Group: A
 
 # Video
-![Video]([Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px))
+([Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px))
 
 # Screenshots
 ### Image 1
