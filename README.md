@@ -4,7 +4,7 @@
 - Class Group: A
 
 # Video
-![Video](Video/XyloBox%20(Video).mp4)
+![Video](https://youtu.be/5Nc76FTBTvM)
 
 # Screenshots
 ### Image 1
