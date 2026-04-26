@@ -4,7 +4,7 @@
 - Class Group: A
 
 # Video
-![Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px)
+[Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px)
 
 # Screenshots
 ### Image 1
@@ -29,4 +29,4 @@
 # List of classes/assets in the Project
 | Class/asset | Source |
 |-------------|--------|
-| Xylophone_49_C6_78_SP.wav | From ![here](https://www.noiiz.com/sounds/samples/49221) |
+| Xylophone_49_C6_78_SP.wav | From [here](https://www.noiiz.com/sounds/samples/49221) |
