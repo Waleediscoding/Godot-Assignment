@@ -30,3 +30,16 @@
 | Class/asset | Source |
 |-------------|--------|
 | Xylophone_49_C6_78_SP.wav | From [here](https://www.noiiz.com/sounds/samples/49221) |
+| ball.png | Self made in [Pixelorama](https://pixelorama.org/) |
+
+# References
+* [Godot-Tutorial](https://youtu.be/TLG2yVpLDT8?si=OGcpkMY6RCFPWokA)
+* [Godot-Documentation](https://docs.godotengine.org/)
+* [Sound-Sample](https://www.noiiz.com/sounds/samples/)
+* [Pixel-Art-Editor](https://pixelorama.org/)
+
+# What I am most proud of in the assignment
+I am most proud of how well the sound and collisions synchronised, and also the colour-coded walls signifying a change in pitch.
+# What I learned
+I learned a lot about godot script, project management, and the importance of writing modular code.
+Through this project I am much more comfortable with the Godot environment.
