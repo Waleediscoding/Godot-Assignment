@@ -4,7 +4,7 @@
 - Class Group: A
 
 # Video
-([Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px))
+![Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px)
 
 # Screenshots
 ### Image 1
@@ -21,7 +21,12 @@
 - The pitch of the note depends on the length of the wall (colour coded).
 - There are four types of walls: Yellow (Highest Pitch), Green, Blue, Red (Lowest Pitch).
 
-## Basic Controls
+## Basic Controls / How it Works
 - Click-n-drag to draw walls on the screen.
 - Right-click on a wall to delete it.
-- Press 'X' to delete every wall on the screen.
+- Press 'X' to clear the screen.
+
+# List of classes/assets in the Project
+| Class/asset | Source |
+|-------------|--------|
+| Xylophone_49_C6_78_SP.wav | From ![here](https://www.noiiz.com/sounds/samples/49221) |
