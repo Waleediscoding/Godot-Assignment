@@ -3,8 +3,8 @@
 - Student Number: A00020389
 - Class Group: A
 
-# Video
-[Link to the Video](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px)
+#Video
+[](https://www.youtube.com/embed/5Nc76FTBTvM?si=hOE29Sv4_u0mY0Px)
 
 # Screenshots
 ### Image 1
