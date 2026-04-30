@@ -1,10 +1,5 @@
 extends StaticBody2D
 
-
-# Called when the node enters the scene tree for the first time.
-func _ready() -> void:
-	pass # Replace with function body.
-
 func setup(a, b, w):
 	var center = (a + b) / 2.0
 	global_position = center
@@ -17,6 +12,7 @@ func setup(a, b, w):
 	$CollisionShape2D.shape = $CollisionShape2D.shape.duplicate()
 	$CollisionShape2D.shape.size = Vector2(length, w)
 	
+	# Boundary plotted onto screen
 	$Line2D.width = w
 	$Line2D.default_color = Color.SILVER
 	$Line2D.clear_points()
